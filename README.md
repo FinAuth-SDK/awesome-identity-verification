@@ -34,6 +34,7 @@ Hosted APIs and SDKs for document verification, biometrics, and compliance scree
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — General-purpose OCR engine often used as a baseline for document text extraction.
 - [OpenSanctions yente](https://github.com/opensanctions/yente) — Self-hostable sanctions & PEP screening API over the OpenSanctions dataset.
 - [MRZ parsers](https://github.com/topics/mrz) — Libraries for reading the machine-readable zone on passports and ID cards.
+- [Tessio.Verifier](https://github.com/tripledownab/tessio-verifier) — Self-hostable .NET verifier for the EU Digital Identity Wallet: OpenID4VP 1.0 with DCQL, SD-JWT VC and ISO 18013-5 mdoc, Apache-2.0, on NuGet.
 
 ## Sanctions & AML Data
 
