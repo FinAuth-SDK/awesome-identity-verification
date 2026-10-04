@@ -20,6 +20,7 @@ Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 Hosted APIs and SDKs for document verification, biometrics, and compliance screening.
 
 - [FinAuth](https://finauth.io) — Developer-first KYC API with a free tier: ID document verification, passive liveness + selfie-to-ID face match, age estimation, AML/PEP/sanctions screening, KYB with UBO checks, transaction (KYT) and crypto wallet screening, hosted verification sessions (shareable link or QR code), and signed webhooks. [Docs](https://docs.finauth.io).
+- [SanctionsKit](https://www.sanctionskit.com/product/api) - Sanctions screening API and review dashboard with source-linked results. Free synthetic sandbox; paid production screening.
 - [Sumsub](https://sumsub.com) — Full-cycle verification platform covering KYC, KYB, transaction monitoring, and travel-rule support.
 - [Veriff](https://www.veriff.com) — Video-first identity verification with broad document coverage.
 - [Onfido](https://onfido.com) — Document and biometric verification, now part of Entrust.
