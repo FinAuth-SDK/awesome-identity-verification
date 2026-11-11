@@ -30,6 +30,7 @@ Hosted APIs and SDKs for document verification, biometrics, and compliance scree
 
 ## Open-Source Tools
 
+- [GridZen Developer Kit](https://github.com/immurray/gridzen-developer-kit) — MIT Python kit and public research MCP for studying identity and account-verification options and rehearsing synthetic outcomes. Public tools do not perform live identity verification.
 - [Open Source Face Recognition (InsightFace)](https://github.com/deepinsight/insightface) — Widely used face analysis toolkit (research/self-hosted use).
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) — General-purpose OCR engine often used as a baseline for document text extraction.
 - [OpenSanctions yente](https://github.com/opensanctions/yente) — Self-hostable sanctions & PEP screening API over the OpenSanctions dataset.
