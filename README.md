@@ -61,6 +61,7 @@ Hosted APIs and SDKs for document verification, biometrics, and compliance scree
 
 ## Learning Resources
 
+- [AML & Sanctions ML](https://github.com/RishabhPande/aml-sanctions-ml) - Curated research, datasets, tools and dated industry sources for transaction monitoring, sanctions screening and entity matching.
 - [KYC Compliance Handbook](https://github.com/FinAuth-SDK/kyc-compliance-handbook) — Practical guide to KYC, KYB, AML screening, and transaction monitoring.
 - [Identity Verification API Guide](https://github.com/FinAuth-SDK/identity-verification-api-guide) — Developer patterns: hosted sessions, webhooks, QR hand-off, key security.
 - [FinAuth Use Cases](https://github.com/FinAuth-SDK/finauth-use-cases) — Real-world IDV scenarios from fintech onboarding to crypto compliance.
