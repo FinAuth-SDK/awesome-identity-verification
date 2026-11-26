@@ -25,6 +25,7 @@ Hosted APIs and SDKs for document verification, biometrics, and compliance scree
 - [Onfido](https://onfido.com) — Document and biometric verification, now part of Entrust.
 - [Persona](https://withpersona.com) — Configurable identity workflows and case review tooling.
 - [Jumio](https://www.jumio.com) — Long-established IDV vendor for regulated enterprises.
+- [Kausate](https://kausate.com) — Real-time KYB API connected to official company registers with global coverage, with reports, shareholders/UBO, financials, original filings, and webhooks. [Docs](https://docs.kausate.com).
 - [Ondato](https://ondato.com) — KYC/KYB suite popular with European financial institutions.
 - [Stripe Identity](https://stripe.com/identity) — Lightweight IDV for businesses already on Stripe.
 
